@@ -505,6 +505,7 @@ span {
 }
 
 .footer-text p {
+  text-align:center;
   font-size: 1.6rem;
   color: var(--white-color);
 }
